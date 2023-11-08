@@ -1,18 +1,18 @@
 h1{
 
-color: deeppink;
+color: rgb(216, 20, 255);
 
 }
 
 body{
-background-color: lightpink;
+background-color: rgb(238, 182, 255);
 
 }
 
 p{
 text-align: left;
 font-size: medium;
-color: black;
+color: blueviolet;
 
 
 }
